@@ -1,0 +1,119 @@
+# EduAI-SA Product Requirements
+
+## Product Name
+
+EduAI-SA
+
+---
+
+# Mission
+
+To give every learner a personal AI tutor and every teacher a personal AI assistant.
+
+---
+
+# Problem Statement
+
+Many learners struggle to understand concepts because classrooms are large and teachers have limited time to provide one-on-one support.
+
+Teachers spend significant time creating lesson plans, worksheets, memorandums, assessments, and reports.
+
+Parents often want to support their children's learning but may not know how.
+
+EduAI-SA exists to solve these challenges using artificial intelligence while keeping teachers at the centre of education.
+
+---
+
+# Target Users
+
+## Learners
+
+- Grade 7 (Version 1)
+- South African CAPS curriculum
+- Mathematics
+- Technology
+
+## Teachers
+
+- Grade 7 educators
+- School management teams
+
+## Parents
+
+- Parents and guardians who want to monitor learner progress
+
+---
+
+# Version 1 Features
+
+## AI Tutor
+
+- Ask questions naturally
+- Step-by-step explanations
+- Examples
+- Practice questions
+- Instant feedback
+
+---
+
+## Mathematics
+
+- CAPS aligned
+- Weekly topics
+- Tests
+- Revision
+- Exam preparation
+
+---
+
+## Technology
+
+- CAPS aligned
+- Design Process
+- Structures
+- Mechanical Systems
+- Electrical Systems
+- Graphics
+
+---
+
+## Teacher Assistant
+
+- Lesson plans
+- Worksheets
+- Memorandums
+- Formal assessments
+- Rubrics
+
+---
+
+## Parent Portal
+
+- Progress reports
+- Homework tracking
+- Performance summaries
+
+---
+
+# Future Features
+
+- Voice AI Tutor
+- isiZulu support
+- Afrikaans support
+- Offline mode
+- School dashboard
+- District dashboard
+- AI Study Planner
+- AI Career Guidance
+
+---
+
+# Success Metrics
+
+Our first success is not downloads.
+
+Our first success is helping one learner understand a difficult concept.
+
+Our second success is saving one teacher valuable time.
+
+Everything else grows from there.
